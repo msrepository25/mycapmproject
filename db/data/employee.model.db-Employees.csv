@@ -1,0 +1,6 @@
+ID,firstName,lastName,address,mobile,salary,email,designation
+87d2a5b6-7c9d-4e1f-8a3b-2f0e1c9a8b3d,Aarav,Sharma,123 Main Street,9876543210,75000.50,aarav.sharma@email.com,Software Engineer
+f2c4b8e1-5d7a-4c9f-8b1a-0e7d5c3b9a2f,Priya,Singh,456 Oak Avenue,8765432109,85000.75,priya.singh@email.com,Data Scientist
+d9e1f3a7-b2c4-4e8f-9d0a-1c5e7b3a9d8f,Rohan,Gupta,789 Pine Lane,7654321098,90000.25,rohan.gupta@email.com,Product Manager
+a5b1c9d2-e3f4-4a6b-8c7d-9e1f2c3a4b5d,Ananya,Mehta,101 Maple Drive,6543210987,70000.00,ananya.mehta@email.com,UX Designer
+c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5f,Vikram,Kumar,222 Cedar Road,5432109876,80000.99,vikram.kumar@email.com,Marketing Specialist

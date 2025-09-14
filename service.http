@@ -1,0 +1,35 @@
+### Reading meployee details
+get http://localhost:4004/odata/v4/employee-odata/EmployeeSet
+
+### Create New Record
+POST http://localhost:4004/odata/v4/employee-odata/EmployeeSet
+Content-Type: application/json
+
+{
+      "firstName": "NewRecord2",
+      "lastName": "Sharma",
+      "address": "123 Main Street",
+      "mobile": "9876543210",
+      "email": "aarav.sharma1@email.com",
+      "salary": 65000.5,
+      "designation": "Software Engineer",
+      "familyMembers": [{
+           "relationship": "Mother",
+           "firstName": "Laura",
+           "lastName": "Mitchell",
+           "address": "123 Maple Avenue, Greonfield",
+           "mobile": "5551122334",
+           "email": "laura.mitchell@kample.com"
+      },
+      {
+           "relationship": "Father",
+           "firstName": "Paura",
+           "lastName": "chell",
+           "address": "123 Maple Avenue, Greonfield",
+           "mobile": "5551122334",
+           "email": "paura.chell@kample.com"
+      }]
+    }
+
+
+    
